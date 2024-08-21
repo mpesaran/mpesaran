@@ -2,7 +2,7 @@
 
 I am a passionate developer and aspiring software engineer, driven by curiosity and a love for technology. My journey involves exploring new ideas in front-end development, honing my skills in various technologies, and contributing to projects that make a difference.
 
-![<mpesaran>'s Stats](https://github-readme-stats.vercel.app/api?username=<mpesaran>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Mahsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpesaran)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ I am a passionate developer and aspiring software engineer, driven by curiosity 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,Wordpress,firebase,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,Wordpress,firebase,nodejs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -33,6 +33,7 @@ I am a passionate developer and aspiring software engineer, driven by curiosity 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/mahsa-pesaran/)
 - Check out my [e-commerce website](https://hunar.com.au/)
 - check out my [portfolio](http://mahsapesaran.com/)
+
 
 
 Thanks for stopping by! Let’s connect and collaborate on exciting tech projects. 🚀
