@@ -2,7 +2,6 @@
 
 I am a passionate developer and aspiring software engineer, driven by curiosity and a love for technology. My journey involves exploring new ideas in front-end development, honing my skills in various technologies, and contributing to projects that make a difference.
 
-[![Mahsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpesaran)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
 
