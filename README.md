@@ -14,7 +14,7 @@ I am a passionate developer and aspiring software engineer, driven by curiosity 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,Wordpress,firebase,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,wordpress,firebase,nodejs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
