@@ -12,6 +12,9 @@ I am a passionate developer and aspiring software engineer, driven by curiosity 
 
 ## My Projects
 
+- [CollabCore](https://collabcore-d3ae2.firebaseapp.com/login): A platform to manage projects in a team.
+- [Easy Planner](https://play.google.com/store/apps/details?id=com.easy.planner): An Android application to organize daily tasks.
+- Memory Game
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,wordpress,firebase,nodejs)](https://skillicons.dev)
@@ -19,19 +22,20 @@ I am a passionate developer and aspiring software engineer, driven by curiosity 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - 💡 Full Stack Development: Enhancing my back-end knowledge, particularly with Node.js and APIs.
-  - 🛠️ State Management: Utilizing Zustand and Redux for efficient application state handling.
+- 💡 Full Stack Development: Enhancing my back-end knowledge, particularly with Node.js and APIs.
+- 🛠️ State Management: Utilizing Zustand and Redux for efficient application state handling.
+- ⚡ Working on new futures for the CollabCore application.
 
  ## 🏆 Achievements
 
-- 🌟 Successfully resolved critical errors in applications, improving data handling and user experience.
+- 🌟 Successfully resolved critical application errors, improving data handling and user experience.
 - 👨‍💻 Led the development of a secure and user-friendly website for my business, integrating payment and shipping APIs.
 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/mahsa-pesaran/)
 - Check out my [e-commerce website](https://hunar.com.au/)
-- check out my [portfolio](http://mahsapesaran.com/)
+- Check out my [portfolio](http://mahsapesaran.com/)
 
 
 
