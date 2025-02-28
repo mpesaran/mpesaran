@@ -17,7 +17,7 @@ I am a passionate developer and aspiring software engineer, driven by curiosity 
 - Memory Game
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,wordpress,firebase,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,firebase,nodejs,wordpress)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
