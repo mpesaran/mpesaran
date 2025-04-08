@@ -14,7 +14,7 @@ I am a passionate developer and aspiring software engineer, driven by curiosity 
 
 - [CollabCore](https://collabcore-d3ae2.firebaseapp.com/login): A platform to manage projects in a team.
 - [Easy Planner](https://play.google.com/store/apps/details?id=com.easy.planner): An Android application to organize daily tasks.
-- Memory Game
+- [Simple Shell](https://github.com/mpesaran/holbertonschool-simple_shell)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,firebase,nodejs,wordpress)](https://skillicons.dev)
