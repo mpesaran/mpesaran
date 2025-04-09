@@ -14,7 +14,7 @@ I am a passionate developer and aspiring software engineer, driven by curiosity 
 
 - [CollabCore](https://collabcore-d3ae2.firebaseapp.com/login): A platform to manage projects in a team.
 - [Easy Planner](https://play.google.com/store/apps/details?id=com.easy.planner): An Android application to organize daily tasks.
-- [Simple Shell](https://github.com/mpesaran/holbertonschool-simple_shell): A simple UNIX command line interpreter implemented in C language. Featured in my LinkedIn post: [linkedin.com/in/your-profile/posts/XYZ]
+- [Simple Shell](https://github.com/mpesaran/holbertonschool-simple_shell): A simple UNIX command line interpreter implemented in C language. Featured in my [LinkedIn post](https://www.linkedin.com/posts/mahsa-pesaran_github-mpesaranholbertonschool-simpleshell-activity-7282219654607974400-7Rj4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAt9u84BCu-mKYI_zIrHP25tk6_5oDmBB2o)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,firebase,nodejs,wordpress)](https://skillicons.dev)
